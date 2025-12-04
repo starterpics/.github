@@ -29,7 +29,7 @@ Most gallery templates are just simple photo albums. **Starter.pics is a Traffic
 *   **Dynamic Sitemaps:** Google-ready structure to ensure every image gets indexed.
 
 ### 🛠 Developer Experience
-*   **Modern Stack:** Built with **Next.js 15 (App Router)**, **TypeScript**, **Prisma**, and **Tailwind CSS**.
+*   **Modern Stack:** Built with **Next.js (App Router)**, **TypeScript**, **Prisma**, and **Tailwind CSS**.
 *   **Beautiful UI:** Pre-styled components based on **Shadcn UI**.
 *   **Powerful Admin:** Bulk CSV import, drag-and-drop uploads, and asset management dashboard included.
 
