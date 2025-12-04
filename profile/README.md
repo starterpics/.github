@@ -8,8 +8,6 @@ _Not just another template — a Headless DAM + SEO Engine._
 Starter.pics is a **long-term maintained, production-grade Next.js Starter Kit** built specifically for **AI image websites**.
 It’s not a “Pinterest clone template.” It’s the **visual content infrastructure** that turns your images into **Google traffic assets**.
 
----
-
 ## 🎯 Why Starter.pics?
 
 Most developers share the same pain:
@@ -22,8 +20,6 @@ You don’t need a component playground.
 You need something **fast to launch, SEO-safe, scalable, and maintainable**.
 
 So we built **Starter.pics**.
-
----
 
 # 🧱 Not a Template — a Product-Level Starter Kit
 
@@ -42,8 +38,6 @@ Build any type of image-focused product:
 
 You’re not buying a frontend theme —
 you’re getting **the full foundation of a real product**.
-
----
 
 # ⚔️ Core Advantage: Anti-Spam Architecture
 
@@ -78,8 +72,6 @@ No cron jobs, no auto-generation.
 Starter.pics aims to be:
 **the world’s most SEO-safe AI image starter kit.**
 
----
-
 # ⚡ Technical Moat
 
 ### **High Performance, Low Cost, Future-Proof**
@@ -99,8 +91,6 @@ Starter.pics aims to be:
 - **Vercel AI SDK**
   Built-in for AI descriptions and future batch tools.
 
----
-
 # 🖥️ Admin Dashboard
 
 ### **A Real Product, Not Just a Grid Viewer**
@@ -117,8 +107,6 @@ Starter.pics includes a full **production-grade admin system**:
 
 This admin panel _is_ the product.
 
----
-
 # 🧩 Core Data Model
 
 ### **Clean, Minimal, SEO-Friendly**
@@ -131,8 +119,6 @@ This admin panel _is_ the product.
 
 Tags never generate public pages automatically.
 All SEO output is 100% curated and intentional.
-
----
 
 # 📦 Current Version: MVP (Manual, Safe, Minimal)
 
@@ -154,8 +140,6 @@ Planned optional modules:
 
 All while maintaining the **high-quality curated-site philosophy**.
 
----
-
 # 🧑‍💻 Who Is This For?
 
 ### Perfect for:
@@ -175,15 +159,11 @@ All while maintaining the **high-quality curated-site philosophy**.
 Starter.pics is for developers who want to launch a
 **professional, high-quality AI image website fast**.
 
----
-
 # 💡 Open Source?
 
 No.
 Starter.pics is a **premium paid Starter Kit**.
 Purchase once → get full source → lifetime use.
-
----
 
 # 🛠️ Tech Stack
 
@@ -195,8 +175,6 @@ Purchase once → get full source → lifetime use.
 - **Shadcn UI**
 - **Vercel AI SDK**
 - **Better-Auth.js**
-
----
 
 # 🌟 Roadmap (Actively Maintained)
 
@@ -212,14 +190,10 @@ Purchase once → get full source → lifetime use.
 
 This is a **continuously evolving starter kit**, not a one-off repo.
 
----
-
 # ❤️ Contribution / Issues
 
 Feedback, ideas, and feature requests are welcome.
 Open an issue to start a discussion.
-
----
 
 # 📬 Stay Updated
 
